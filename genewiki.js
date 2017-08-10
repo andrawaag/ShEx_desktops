@@ -1,4 +1,4 @@
-(function () {
+Demos = (() => {
 var wikidataHumanGeneItem = {}
 var wikidataDiseaseItem = {}
 var wikidataCancerItem = {}
